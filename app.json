@@ -1,6 +1,6 @@
 {
   "name": "Fourchette",
-  "description": "Fourchette enables a better development workflow for teams, leveraging forking and github pull requests together to give you isolated environments automatically to checkout new features in your app with ease!",
+  "description": "Fourchette combines Heroku forking and GitHub pull requests to create a test app for each pull request.!",
   "website": "https://github.com/rainforestapp/fourchette-app",
   "repository": "https://github.com/rainforestapp/fourchette-app",
   "keywords": [
@@ -38,6 +38,6 @@
   "addons": [
     "logentries:tryit",
     "newrelic:stark",
-    "sentry:developer"
+    "sentry"
   ]
 }

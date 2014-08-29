@@ -7,7 +7,7 @@
  </p>
 
 ## IMPORTANT
-This is a generated Fourchette app for ease of deploy. Fourchette itself lives in an other repo: https://github.com/rainforestapp/fourchette.
+This is a generated Fourchette app for ease of deploy. Fourchette itself lives in another repo: https://github.com/rainforestapp/fourchette.
 
 ## What is Fourchette?
 

@@ -11,6 +11,9 @@
     "workflow"
   ],
   "success_url": "https://github.com/rainforestapp/fourchette-app",
+  "scripts": {
+    "postdeploy": "bundle exec rake fourchette:enable"
+  },
   "env": {
     "FOURCHETTE_GITHUB_PROJECT": {
       "description": "The github project to watch for notifications from"

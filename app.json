@@ -38,6 +38,6 @@
   "addons": [
     "logentries:tryit",
     "newrelic:stark",
-    "sentry:developer"
+    "sentry"
   ]
 }

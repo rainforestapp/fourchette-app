@@ -37,10 +37,5 @@
       "description": "A custom prefix for your forks, use it to namespace your forks. By default they'll be named 'fourchette-pr-1234' where '1234' is the PR number. Beware, the name can't be more than 30 characters total! It will be changed to be lowercase only, so you should probably just use lowercase characters anyways.",
       "value": "fourchette"
     }
-  },
-  "addons": [
-    "logentries:tryit",
-    "newrelic:stark",
-    "sentry"
-  ]
+  }
 }
